@@ -1,0 +1,12 @@
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\bin\Debug\ExamenVeterinaria.exe.config
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\bin\Debug\ExamenVeterinaria.exe
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\bin\Debug\ExamenVeterinaria.pdb
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.Form1.resources
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.Properties.Resources.resources
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.csproj.GenerateResource.cache
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.exe
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.pdb
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.login.resources
+C:\Users\asfix\OneDrive\ED U1\ExamenVeterinaria\ExamenVeterinaria\obj\Debug\ExamenVeterinaria.Form2.resources
